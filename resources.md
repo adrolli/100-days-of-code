@@ -4,6 +4,5 @@ I am sorry for deleting mostly everything (I already know, read or find useless)
 
 - ["Meditations" by Marcus Aurelius](http://classics.mit.edu/Antoninus/meditations.html)
 - [FreeCodeCamp](https://www.freecodecamp.com)
-- [The Odin Project](http://www.theodinproject.com/)
-- [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+- [The Odin Project](http://www.theodinproject.com/) - huh, so many errors in the first few videos
 - ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/)
