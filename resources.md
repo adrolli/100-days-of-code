@@ -2,7 +2,7 @@
 
 I am sorry for deleting mostly everything (I already know, read or find useless). Here's what's left:
 
-- ["Meditations" by Marcus Aurelius](http://classics.mit.edu/Antoninus/meditations.html)
+- ["Meditations" by Marcus Aurelius](http://classics.mit.edu/Antoninus/meditations.html) - the free html-version instead of spending money
 - [FreeCodeCamp](https://www.freecodecamp.com)
 - [The Odin Project](http://www.theodinproject.com/) - huh, so many errors in the first few videos
 - ["Eloquent Javascript" by Marijn Haverbeke](http://eloquentjavascript.net/)
