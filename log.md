@@ -5,6 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [August 11, Saturday, 2018].
 ## Ideas
 
 - Create your HTML Boilerplate with Sass, srcset and more "kitchen sink" ready for BS a/o Foundation
+- https://github.com/tmcw/parse-gedcom transform the Drollinger-Genealogy into something cool
+- https://github.com/search?q=osm+distance Distance calculation - really just an idea
 - Learn, learn, learn ehm Javascript ;-)
 
 ## Log
